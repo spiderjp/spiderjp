@@ -38,7 +38,7 @@
 - 💬 Ask me about Science Fiction and the Future of Mankind 🌌
 - 👅 Languages I communicate and learn: Portuguese, Spanish and English ✨
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/spiderjp/
-- - 📫 How to reach me: E-mail: jotapejpbsf@gmail.com
+- 📫 How to reach me: E-mail: jotapejpbsf@gmail.com
 - ⚡ Fun fact: I was born on the last day of the year and I am left-handed 📆
 
 
