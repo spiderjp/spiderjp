@@ -2,11 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-de-souza-batista-8088ab1a9/)
 
-![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderjp&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderjp)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Technologies (use, study and know):
 
 <div style="display: inline-block"> <br/>
