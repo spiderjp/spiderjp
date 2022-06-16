@@ -17,7 +17,7 @@
 
 ## Technologies Pentest (use, study and know):
 <div style="display: inline-block">
-  <h4>Operating System Fundamentals - Network Fundamentals - Linux Fundamentals (Kali Distro) - Web Programming Fundamentals - Google Hacking - Cryptography - SQL (Database)</h4>
+  <h4>Operating System Fundamentals - Network Fundamentals - Linux Fundamentals (Kali Distro) - Virtual Machines - Web Programming Fundamentals - Google Hacking - Cryptography - SQL (Database)</h4>
 </div> <br/>
 
 ## Technologies Web Programming and Mobile (use, study and know):
