@@ -1,4 +1,4 @@
-# Hey, nice to meet you, I'm João Pedro (you can call me John) 👋😉😄
+# Hey, nice to meet you, I'm João (you can call me John) 👋😉😄
 
 #### 🚨This repository has the sole purpose of making my personal study and practice projects available.
 
